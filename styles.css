@@ -226,3 +226,17 @@ Med align-items: end hamnar menyn längre ned.
 Med start hamnar den längre upp.
 Med center är rubriken och menyn centrerade i höjdled.
 */
+
+/*
+Flexrad (row):
+Huvudaxeln går från vänster till höger.
+justify-content styr placeringen längs huvudaxeln.
+Korsaxeln går uppifrån och ned.
+align-items styr placeringen längs korsaxeln.
+
+Flexkolumn (column):
+Huvudaxeln går uppifrån och ned.
+justify-content styr placeringen längs huvudaxeln.
+Korsaxeln går från vänster till höger.
+align-items styr placeringen längs korsaxeln.
+*/
