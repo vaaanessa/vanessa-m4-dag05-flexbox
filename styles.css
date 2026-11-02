@@ -54,6 +54,8 @@ article {
   border-radius: 8px;
   padding: 16px;
   margin-bottom: 16px;
+  display: flex;
+  flex-direction: column;
 }
 
 article img,
@@ -130,6 +132,7 @@ h3 {
 .pris {
   font-weight: 700;
   color: #8c1010;
+  margin-top: auto;
 }
 
 a {
