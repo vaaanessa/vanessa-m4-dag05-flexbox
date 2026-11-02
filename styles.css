@@ -77,6 +77,11 @@ footer {
   background-color: #2b1c14;
   color: #ffffff;
   padding: 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 16px;
 }
 
 footer a {
