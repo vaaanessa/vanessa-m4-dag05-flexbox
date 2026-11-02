@@ -215,3 +215,14 @@ legend {
   font-weight: 700;
   padding: 0 8px;
 }
+
+/*
+Med justify-content: center hamnar rubriken och menyn
+tillsammans i mitten. Med flex-end hamnar de till höger.
+Med space-around får de luft runt sig. Mellanrummet
+mellan dem är större än utrymmet vid ytterkanterna.
+
+Med align-items: end hamnar menyn längre ned.
+Med start hamnar den längre upp.
+Med center är rubriken och menyn centrerade i höjdled.
+*/
